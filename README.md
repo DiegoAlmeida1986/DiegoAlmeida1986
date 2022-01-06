@@ -1,6 +1,6 @@
    ### Olá sou Diego, seja bem vindo(a)!!!  😄😄😄 
 
-<img align="right" width="305" height="312" src="https://i.pinimg.com/originals/7f/ed/c8/7fedc82bbef8d24892073c0bc6434e8d.gif">
+<img align="right" width="305" height="312" src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif">
 <br>
 
 
