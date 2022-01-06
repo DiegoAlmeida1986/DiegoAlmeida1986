@@ -12,5 +12,5 @@
 -  🚧 Ah...sobre meu GitHub, ainda estamos em construção, mas com certeza sairá uma bela obra...
 -  👋 Muito obrigado pela visita e volte sempre!
 <br>
-  Siga-me no Linkedin: <br>
- <a href="https://www.linkedin.com/in/diego-almeida-silva-almeida-945724127"><img width="30" height="30" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg"></a>
+       &emsp;Siga-me no Linkedin: <br>
+&emsp;<a href="https://www.linkedin.com/in/diego-almeida-silva-almeida-945724127"><img width="30" height="30" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg"></a>
